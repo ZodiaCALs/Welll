@@ -1,0 +1,76 @@
+{
+  "" : {
+    "const-values" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/Welll-primary.swiftconstvalues",
+    "dependencies" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/Welll-primary.d",
+    "diagnostics" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/Welll-primary.dia",
+    "emit-module-dependencies" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/Welll-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/Welll-primary-emit-module.dia",
+    "pch" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/Welll-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/Welll-primary.swiftdeps"
+  },
+  "/Users/zodiac/Documents/Models/Claude5.5/Welll/Sources/Welll/AppDelegate.swift" : {
+    "index-unit-output-path" : "/Welll.build/Release/Welll-p.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/AppDelegate.o"
+  },
+  "/Users/zodiac/Documents/Models/Claude5.5/Welll/Sources/Welll/AppModel.swift" : {
+    "index-unit-output-path" : "/Welll.build/Release/Welll-p.build/Objects-normal/arm64/AppModel.o",
+    "llvm-bc" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/AppModel.bc",
+    "object" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/AppModel.o"
+  },
+  "/Users/zodiac/Documents/Models/Claude5.5/Welll/Sources/Welll/DaemonClient.swift" : {
+    "index-unit-output-path" : "/Welll.build/Release/Welll-p.build/Objects-normal/arm64/DaemonClient.o",
+    "llvm-bc" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/DaemonClient.bc",
+    "object" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/DaemonClient.o"
+  },
+  "/Users/zodiac/Documents/Models/Claude5.5/Welll/Sources/Welll/Design.swift" : {
+    "index-unit-output-path" : "/Welll.build/Release/Welll-p.build/Objects-normal/arm64/Design.o",
+    "llvm-bc" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/Design.bc",
+    "object" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/Design.o"
+  },
+  "/Users/zodiac/Documents/Models/Claude5.5/Welll/Sources/Welll/DeveloperLock.swift" : {
+    "index-unit-output-path" : "/Welll.build/Release/Welll-p.build/Objects-normal/arm64/DeveloperLock.o",
+    "llvm-bc" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/DeveloperLock.bc",
+    "object" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/DeveloperLock.o"
+  },
+  "/Users/zodiac/Documents/Models/Claude5.5/Welll/Sources/Welll/DeveloperView.swift" : {
+    "index-unit-output-path" : "/Welll.build/Release/Welll-p.build/Objects-normal/arm64/DeveloperView.o",
+    "llvm-bc" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/DeveloperView.bc",
+    "object" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/DeveloperView.o"
+  },
+  "/Users/zodiac/Documents/Models/Claude5.5/Welll/Sources/Welll/EnergyMonitor.swift" : {
+    "index-unit-output-path" : "/Welll.build/Release/Welll-p.build/Objects-normal/arm64/EnergyMonitor.o",
+    "llvm-bc" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/EnergyMonitor.bc",
+    "object" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/EnergyMonitor.o"
+  },
+  "/Users/zodiac/Documents/Models/Claude5.5/Welll/Sources/Welll/GlassComponents.swift" : {
+    "index-unit-output-path" : "/Welll.build/Release/Welll-p.build/Objects-normal/arm64/GlassComponents.o",
+    "llvm-bc" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/GlassComponents.bc",
+    "object" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/GlassComponents.o"
+  },
+  "/Users/zodiac/Documents/Models/Claude5.5/Welll/Sources/Welll/GlassSupport.swift" : {
+    "index-unit-output-path" : "/Welll.build/Release/Welll-p.build/Objects-normal/arm64/GlassSupport.o",
+    "llvm-bc" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/GlassSupport.bc",
+    "object" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/GlassSupport.o"
+  },
+  "/Users/zodiac/Documents/Models/Claude5.5/Welll/Sources/Welll/PopoverView.swift" : {
+    "index-unit-output-path" : "/Welll.build/Release/Welll-p.build/Objects-normal/arm64/PopoverView.o",
+    "llvm-bc" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/PopoverView.bc",
+    "object" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/PopoverView.o"
+  },
+  "/Users/zodiac/Documents/Models/Claude5.5/Welll/Sources/Welll/SMCInspector.swift" : {
+    "index-unit-output-path" : "/Welll.build/Release/Welll-p.build/Objects-normal/arm64/SMCInspector.o",
+    "llvm-bc" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/SMCInspector.bc",
+    "object" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/SMCInspector.o"
+  },
+  "/Users/zodiac/Documents/Models/Claude5.5/Welll/Sources/Welll/StatusIcon.swift" : {
+    "index-unit-output-path" : "/Welll.build/Release/Welll-p.build/Objects-normal/arm64/StatusIcon.o",
+    "llvm-bc" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/StatusIcon.bc",
+    "object" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/StatusIcon.o"
+  },
+  "/Users/zodiac/Documents/Models/Claude5.5/Welll/Sources/Welll/WelllMain.swift" : {
+    "index-unit-output-path" : "/Welll.build/Release/Welll-p.build/Objects-normal/arm64/WelllMain.o",
+    "llvm-bc" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/WelllMain.bc",
+    "object" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/Welll-p.build/Objects-normal/arm64/WelllMain.o"
+  }
+}

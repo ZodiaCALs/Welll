@@ -1,0 +1,4 @@
+module WelllCore {
+header "WelllCore-Swift.h"
+export *
+}

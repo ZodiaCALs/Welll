@@ -1,0 +1,4 @@
+module CWelll {
+umbrella header "/Users/zodiac/Documents/Models/Claude5.5/Welll/Sources/CWelll/include/CWelll.h"
+export *
+}

@@ -1,0 +1,11 @@
+{
+  "/Users/zodiac/Documents/Models/Claude5.5/Welll/Sources/wellld/ChargeController.swift" : {
+    "abi-baseline-json" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/wellld-p.build/Objects-normal/arm64/wellld.abi.json",
+    "const-values" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/wellld-p.build/Objects-normal/arm64/wellld-primary.swiftconstvalues",
+    "dependencies" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/wellld-p.build/Objects-normal/arm64/wellld-primary.d",
+    "diagnostics" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/wellld-p.build/Objects-normal/arm64/wellld-primary.dia",
+    "swiftdoc" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/wellld-p.build/Objects-normal/arm64/wellld.swiftdoc",
+    "swiftmodule" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/wellld-p.build/Objects-normal/arm64/wellld.swiftmodule",
+    "swiftsourceinfo" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/wellld-p.build/Objects-normal/arm64/wellld.swiftsourceinfo"
+  }
+}

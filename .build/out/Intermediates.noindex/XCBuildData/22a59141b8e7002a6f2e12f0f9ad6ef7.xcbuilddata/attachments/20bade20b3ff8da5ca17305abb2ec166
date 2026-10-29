@@ -1,0 +1,16 @@
+{
+  "" : {
+    "const-values" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/welllctl-p.build/Objects-normal/arm64/welllctl-primary.swiftconstvalues",
+    "dependencies" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/welllctl-p.build/Objects-normal/arm64/welllctl-primary.d",
+    "diagnostics" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/welllctl-p.build/Objects-normal/arm64/welllctl-primary.dia",
+    "emit-module-dependencies" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/welllctl-p.build/Objects-normal/arm64/welllctl-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/welllctl-p.build/Objects-normal/arm64/welllctl-primary-emit-module.dia",
+    "pch" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/welllctl-p.build/Objects-normal/arm64/welllctl-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/welllctl-p.build/Objects-normal/arm64/welllctl-primary.swiftdeps"
+  },
+  "/Users/zodiac/Documents/Models/Claude5.5/Welll/Sources/welllctl/main.swift" : {
+    "index-unit-output-path" : "/Welll.build/Release/welllctl-p.build/Objects-normal/arm64/main.o",
+    "llvm-bc" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/welllctl-p.build/Objects-normal/arm64/main.bc",
+    "object" : "/Users/zodiac/Documents/Models/Claude5.5/Welll/.build/out/Intermediates.noindex/Welll.build/Release/welllctl-p.build/Objects-normal/arm64/main.o"
+  }
+}
